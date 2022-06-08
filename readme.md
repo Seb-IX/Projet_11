@@ -1,7 +1,7 @@
-# project "Fashion insta"
+# Project "Fashion insta"
 
 <p align="center">
-	<img src="https://github.com/Seb-IX/Projet_11/tree/main/Ressource/logo.png" style="width:400px;">
+	<img src="https://github.com/Seb-IX/Projet_11/blob/main/Ressource/logo.png" style="width:400px;">
 </p>
 
 Fashion-Insta is a company in the world of fashion that markets fashion items.
